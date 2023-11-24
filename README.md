@@ -27,7 +27,9 @@
         4. Responsive Design: Using Tailwind css
         5. Font Awesome for Icons and Google fonts for Style fonts
     - Conclusion:
-        Movie Explorer is a feature-rich React application that leverages the TMDB API to offer users a delightful experience in exploring and discovering information about their favorite movies. The project is designed to be extensible, allowing for future enhancements and improvements.  
+        Movie Explorer is a feature-rich React application that leverages the TMDB API to offer users a delightful experience in exploring and discovering information about their favorite movies. The project is designed to be extensible, allowing for future enhancements and improvements.
+
+       ![IMG2](https://github.com/Althafkv/React-tmdb/assets/114138647/41f13cde-e1ae-4029-bd0f-ea9366c0a10e)
 
 3. In this application we'll use both class and functional components.
 
