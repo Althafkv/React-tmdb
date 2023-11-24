@@ -1,6 +1,6 @@
 1. TMDB React Project Overview
 
-    ![Uploading Screenshot (22).png…]()
+    ![IMG1](https://github.com/Althafkv/React-tmdb/assets/114138647/7fb8239a-ae6b-4fb6-9385-ada141477b2e)
 
     - Project Name: Movie Corner
     - Description: 
