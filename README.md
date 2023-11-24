@@ -1,6 +1,6 @@
 1. TMDB React Project Overview
 
-    ![Uploading IMG1.png…]()
+    ![Uploading Screenshot (22).png…]()
 
     - Project Name: Movie Corner
     - Description: 
