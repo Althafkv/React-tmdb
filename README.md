@@ -1,5 +1,7 @@
 1. TMDB React Project Overview
 
+    ![Uploading IMG1.png…]()
+
     - Project Name: Movie Corner
     - Description: 
         Movie Corner is a React-based web application that utilizes the TMDB API to provide users with a seamless and interactive movie browsing experience. Users can discover information about movies, including details such as language, crew, year of movie, and more. The project aims to showcase React development skills while leveraging the rich movie data available through the TMDB API.
@@ -27,14 +29,14 @@
     - Conclusion:
         Movie Explorer is a feature-rich React application that leverages the TMDB API to offer users a delightful experience in exploring and discovering information about their favorite movies. The project is designed to be extensible, allowing for future enhancements and improvements.  
 
-2. In this application we'll use both class and functional components.
+3. In this application we'll use both class and functional components.
 
     - Functional Components:
         Functional components are simple. They are functions that take props as an argument and return React elements. With the introduction of React Hooks, functional components can also manage state and lifecycle events.
     - Class Components:
         Class components are ES6 classes that extend from React.Component. They have a more feature-rich API compared to functional components and can have local state, lifecycle methods, and other features.
 
-3. How to run this application :
+4. How to run this application :
 
     - Clone the Project: Clone the TMDB React project from your version control system (e.g., GitHub) to your local machine.
         eg : git clone https://github.com/your-username/project-name.git
